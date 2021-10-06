@@ -1,0 +1,15 @@
+<template>
+   <div>
+       <h1>bounce Page Transition</h1>
+   </div>
+</template>
+
+<script>
+export default {
+   transition:'bounce'
+}
+</script>
+
+<style>
+
+</style>
