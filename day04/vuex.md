@@ -28,6 +28,7 @@
 2. 定义state， mutations, actions
 3. 在页面组件中使用store上的数据
 4. 在页面组件绑定两个点击方法，实现同步加，异步加
+5. mutations同步要用commit激活,actions异步要用dispatch激活
 
 
 
